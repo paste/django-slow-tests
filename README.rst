@@ -7,9 +7,6 @@ django-slowtests
 .. image:: https://coveralls.io/repos/realpython/django-slow-tests/badge.svg?branch=master
   :target: https://coveralls.io/r/realpython/django-slow-tests?branch=master
 
-.. image:: https://img.shields.io/pypi/dm/django-slowtests.svg
-    :target:  https://pypi.python.org/pypi/django-slowtests/
-
 .. image:: https://img.shields.io/pypi/v/django-slowtests.svg
     :target:  https://pypi.python.org/pypi/django-slowtests/
 
@@ -89,7 +86,6 @@ or::
 Known Issues
 ------------
 
-- ``setUpClass`` is not called when using django-slowtests' test runner (see `Issue #5 <https://github.com/realpython/django-slow-tests/issues/5>`_).
 
 
 License
